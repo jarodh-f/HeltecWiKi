@@ -10,9 +10,9 @@ pinned: true
 
 <!--truncate-->
 
-Calling all tinkerers, hackers, makers, and dreamers from around the world! The first global Heltec Maker Contest is here—time to unleash your wildest ideas.
+Calling all tinkerers, hackers, and makers from around the world! The first global Heltec Maker Contest is here—time to showcast your wildest ideas and excellent projects.
 
-If you’ve ever dreamed of turning your ideas into real, show-stopping tech, this is your stage. Alpha prototype or polished project, solo or team effort—we want to see your boundary-breaking creativity with Heltec hardware.
+If you've got a brilliant idea, a fascinating discovery, or an interesting setup in special scenario- this is your stage. Whether it's an alpha prototype or polished project, solo or team effort-we want to see your creativity with Heltec hardware.
 ![Overview](img/01.png)
 <!-- truncate -->
 
@@ -21,15 +21,15 @@ If you’ve ever dreamed of turning your ideas into real, show-stopping tech, th
 |--------------------|----------------------------|
 |     1st prize      | 1,000$ cash + exclusive trophy + Heltec’s “Maker Hall of Fame". |
 |     2st prize      | 700$ cash + trophy + Heltec’s “Maker Hall of Fame". |
-|     2st prize      | 400$ cash + trophy + Heltec’s “Maker Hall of Fame". |
-| Approved Award<sup>*1</sup> | 15% discount coupon on [Heltec website](https://heltec.org) with no threshold and valid for one year |
+|     3rd prize      | 400$ cash + trophy + Heltec’s “Maker Hall of Fame". |
+| Participation<sup>*1</sup> | 15% discount coupon on [Heltec website](https://heltec.org) with no threshold and valid for one year |
 
-:::tip *1
-Each project that passes the review and is displayed will receive the discount coupon. The rules for this review are very loose, so we encourage you to actively participate.
+:::tip *
+Only the approved application will receive the discount coupon. And the approved projects will be displayed. As long as your project have one of Heltec product and it's clear for us to review, you'll likely to pass, so what are you waiting for? 
 :::
 
 :::note
-These prizes are the same for teams or individuals. For example, a team of 5 winning First Prize will still receive USD 1,000 total; Tenth Prize is still USD 100.
+These prizes are awarded per project, not per person. For example, a team of 5 winning First Prize will still receive USD 1,000 total.
 :::
 
 ### Our mission?
@@ -41,12 +41,12 @@ Ignite creativity, expand the maker community, and celebrate fearless innovation
 - Open to individuals or teams
 - Any project using Heltec products (past or present)
 - Open to all industries — including but not limited to:
-  - Smart Cities & Infrastructure: traffic monitoring, smart street lighting, public safety, energy-efficient buildings
-  - Industrial IoT (IIoT): predictive maintenance, factory automation, supply chain optimization
-  - Agriculture & Environment: precision farming, soil and water monitoring, automated irrigation, weather stations
-  - Connected Consumer & Home: smart appliances, home security systems, personal health monitors, wearable devices
-  - Healthcare & Education: remote patient monitoring, telemedicine devices
-  - Mobility & Transportation: smart logistics, vehicle tracking, traffic flow optimization
+  - Smart Cities & Infrastructure: traffic monitoring, smart street lighting, public safety, energy-efficient buildings, etc.
+  - Industrial IoT (IIoT): predictive maintenance, factory automation, supply chain optimization, etc.
+  - Agriculture: precision farming, soil and water monitoring, automated irrigation, weather stations, etc.
+  - Home automation: smart appliances, home security systems, personal health monitors, wearable devices, etc.
+  - Healthcare & Education: remote patient monitoring, telemedicine devices, etc.
+  - Mobility & Transportation: smart logistics, vehicle tracking, traffic flow optimization, emergency, etc.
 
 ### Timeline:
 - 1️⃣ Registration & Project Submission (Sep 29 – Dec 10)
@@ -54,7 +54,7 @@ Ignite creativity, expand the maker community, and celebrate fearless innovation
 - 3️⃣ Rankings Announcement: Dec 15
   - Top projects revealed.
   - Additional prize delivery info will be requested (banking/shipping).
-- 4️⃣ Awards (Dec 15 – Dec 24)
+- 4️⃣ Get your Awards (Dec 15 – Dec 24)
   - Prizes distributed within 7–15 days, just in time for the holidays.
 
 ### How It Works
@@ -72,11 +72,11 @@ import TabItem from '@theme/TabItem';
 
   <TabItem value="step-2" label="2: Review & Approval">
     #### Review & Approval
-    - Our team will review via Github after we receive your application. 
-    - As long as you are using at least one Heltec product and clearly describe your project, it will be approved, merged and displayed in this page(网址).
+    - Our team will review via Gitthub after we receive your application. 
+    - Once we merged your PR, your project will be displayed in [this page](https://wiki.heltec.org/news).
 
-:::tip P. S.
-You’ll get notified with your 15% off discount, once approved. (One time use per participant )
+:::note
+And you’ll also get notified with your 15% off discount, once approved. (One time use per participant )
 :::
   </TabItem>
 
