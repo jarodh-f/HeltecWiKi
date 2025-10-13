@@ -15,23 +15,23 @@ Enter the folder and change the name of "contest-content-template.md" to the sam
 Now your folder structure should look like this
 ```
 Heltec_Docs_News/
-├── docs/                           # 文档目录
-│   ├── devices/             # Wiki 文档 1
-│   ├── platform/             # Wiki 文档 2
+├── docs/                           # Document Directory
+│   ├── devices/             # Wiki Document 1
+│   ├── platform/             # Wiki Document 2
 │   ├── intro.md
 │   └── platforms.md
 │
-├── news/                           # 文档目录
-│   ├── my-project-name/             # Wiki 文档 1
+├── news/                           # Document Directory
+│   ├── my-project-name/             # Wiki Document 1
 │   │   ├── img/
 │   │   │   ├── 01.svg
 │   │   │   ├── 02.png
 │   │   │   ├── 03.png
 │   │   │   ├── 04.png
 │   │   │   └── ...
-│   │   └── my-project-name.md         # 子目录中的 Wiki
-│   ├── contest-content-template/             # Wiki 文档 1
-│   ├── contest-content-template-usage-guide/             # Wiki 文档 2
+│   │   └── my-project-name.md         # Wiki in subdirectories
+│   ├── contest-content-template/             # Wiki Document 1
+│   ├── contest-content-template-usage-guide/             # Wiki Document 2
 │   ├── 2025-Heltec-Maker-Contest.md
 │   ├── 2025-Heltec-Maker-Contest-Privacy-Policy.md
 │   ├── authors.yml
