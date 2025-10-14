@@ -21,7 +21,7 @@ export const latestWikiData = [
     "description": "How to Use the Contest Content Template",
     "category": "Contest",
     "date": "2025-9-23",
-    "image": "/img/undraw_docusaurus_react.svg",
+    "image": "/img/main-img/template.jpg",
     "slug": "/news/contest-content-template-usage-guide/contest-content-template-usage-guide",
     "tags": [
       "heltec",
@@ -47,7 +47,7 @@ export const latestWikiData = [
     "description": "2025 Heltec Maker Contest Privacy Policy",
     "category": "IoT",
     "date": "2025-9-22",
-    "image": "/img/undraw_docusaurus_react.svg",
+    "image": "/img/main-img/Privacy Policy.jpg",
     "slug": "/news/2025-Heltec-Maker-Contest-Privacy-Policy",
     "tags": [
       "heltec",

@@ -50,7 +50,7 @@ function HomepageHeader() {
               </Link>
               <Link
                 className="button button--outline button--lg"
-                to="/docs/tutorial-basics/create-a-document"
+                to="/news"
               >
                 View Docs 📚
               </Link>
@@ -64,7 +64,7 @@ function HomepageHeader() {
 }
 
 function BrowseBy() {
-  const [activeCategory, setActiveCategory] = useState("esp32");
+  const [activeCategory, setActiveCategory] = useState("open_source_devices");
   const categories = getCategoryTitles();
 
   const activeCategoryData = browseByData.find(
@@ -100,7 +100,7 @@ function BrowseBy() {
               <div key={idx} className="col col--3 " style={{marginBottom:"15px"}}>
                 <div className={styles.browseByCard}>
                   <div className={styles.browseByImage}>
-                    <img src={doc.image} alt={doc.title} />
+                    <img src={doc.image} alt={doc.title} className={styles[`browseByImage_${idx}`]}/>
                     <div className={styles.browseByOverlay}>
                       <Link
                         to={doc.path}
@@ -226,7 +226,7 @@ function LatestWiki() {
         </div>
 
         <div className="text--center margin-top--xl">
-          <Link to="/blog" className="button button--primary button--lg">
+          <Link to="/news" className="button button--primary button--lg">
             View All Wiki
           </Link>
         </div>
@@ -251,7 +251,9 @@ function TechSupport() {
                 needs.
               </p>
               <div className={styles.supportChannels}>
-                <div className={styles.supportChannel}>
+                <div className={styles.supportChannel}
+                onClick={() => window.open('https://discord.com/invite/wt23aDKDUy', '_blank')}
+                >
                   <span className={styles.channelIcon}>💬</span>
                   <div>
                     <h4>Discord Community</h4>
@@ -261,14 +263,18 @@ function TechSupport() {
                     </p>
                   </div>
                 </div>
-                <div className={styles.supportChannel}>
+                <div className={styles.supportChannel}
+                 onClick={() => window.open('https://heltec.org/about/contact/', '_blank')}
+                 >
                   <span className={styles.channelIcon}>📧</span>
                   <div>
                     <h4>Email Support</h4>
                     <p>Send emails to get professional technical support</p>
                   </div>
                 </div>
-                <div className={styles.supportChannel}>
+                <div className={styles.supportChannel}
+                onClick={() => window.open('http://community.heltec.cn/', '_blank')}
+                >
                   <span className={styles.channelIcon}>🏪</span>
                   <div>
                     <h4>Official Forum</h4>
