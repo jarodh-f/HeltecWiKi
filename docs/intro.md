@@ -35,6 +35,7 @@ import DocCardList from '@theme/DocCardList';
 In a complete LoRaWAN communication process, a server is essential. A LoRaWAN server typically consists of two parts: the Network Server (NS) and the Application Server (AS). The NS is responsible for tasks such as node joining, acknowledgments, identity verification, and communication authentication. Today, there are many excellent LoRaWAN servers available. For example, Heltec provides SnapEmu, and detailed operation instructions can be found on its [platform](/docs/platforms).
 
 
+
 ## LoRaWAN Appliaction
 
 ### LoRa Gateway 
