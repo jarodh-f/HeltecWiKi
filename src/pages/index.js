@@ -244,36 +244,6 @@ function LatestWiki() {
 
 function TechSupport() {
 
-  const navi_list = [
-    {
-      icon: "/img/main-img/github.png",
-      url: "https://github.com/HelTecAutomation"
-    },
-     {
-      icon: "/img/main-img/reddit.png",
-      url: "https://www.reddit.com/user/Heltec Automation6/"
-    },
-    {
-      icon: "/img/main-img/facebook.png",
-      url: "https://www.facebook.com/profile.php?id=61580053774905"
-    },
-    {
-      icon: "/img/main-img/twitter.png",
-      url: "https://x.com/Heltec Auto"
-    },
-    {
-      icon: "/img/main-img/youtube.png",
-      url: "https://www.youtube.com/@HeltecAutomation"
-    },
-    {
-      icon: "/img/main-img/instagram.png",
-      url: "https://www.instagram.com/heltec automation"
-    },
-    {
-      icon: "/img/main-img/tiktok.png",
-      url: "https://www.tiktok.com/@heltec.automation"
-    }
-  ]
 
   return (
     <section className={styles.techSupport}>
@@ -329,15 +299,6 @@ function TechSupport() {
                 src="/img/main-img/support.webp"
                 alt="Technical Support"
               />
-            </div>
-            <div className={styles.navi_icon}>
-                {
-                  navi_list.map((item, index)=>{
-                    return <div key={index} className={styles.navi_item} onClick={()=>{ window.open(item.url, "_blank") }}>
-                          <img src={item.icon} alt="heltec" className={`styles.navi_icon_${index}`}/>
-                    </div>
-                  })
-                }
             </div>
           </div>
         </div>

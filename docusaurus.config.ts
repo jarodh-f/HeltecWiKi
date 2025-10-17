@@ -1,8 +1,32 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import FooterSocials from './src/components/FooterSocials';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
+
+const navi_list = [
+  { icon: "/img/main-img/github.png", url: "https://github.com/HelTecAutomation" },
+  { icon: "/img/main-img/reddit.png", url: "https://www.reddit.com/user/Heltec Automation6/" },
+  { icon: "/img/main-img/facebook.png", url: "https://www.facebook.com/profile.php?id=61580053774905" },
+  { icon: "/img/main-img/twitter.png", url: "https://x.com/Heltec Auto" },
+  { icon: "/img/main-img/youtube.png", url: "https://www.youtube.com/@HeltecAutomation" },
+  { icon: "/img/main-img/instagram.png", url: "https://www.instagram.com/heltec automation" },
+  { icon: "/img/main-img/tiktok.png", url: "https://www.tiktok.com/@heltec.automation" },
+];
+
+// 生成 HTML 字符串
+const socialLinksHtml = `
+  <div style="display:flex; gap:12px; margin-top:8px; justify-content:flex-start;">
+    ${navi_list.map(item => `
+      <a href="${item.url}" target="_blank" rel="noopener noreferrer">
+        <img src="${item.icon}" width="24" height="24"/>
+      </a>
+    `).join('')}
+  </div>
+`;
+
 
 const config: Config = {
   title: 'Heltec Docs & News',
@@ -35,27 +59,27 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  
+
   plugins: [
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
         hashed: true,
-        language: ['en', 'en'], 
+        language: ['en', 'en'],
         highlightSearchTermsOnTargetPage: true,
         removeDefaultStopWordFilter: true,
       },
     ],
   ],
 
-  themeConfig: {
-    navbar: {
-      title: 'My Site',
-      items: [
-        { type: 'search', position: 'right' }, 
-      ],
-    },
-  },
+  // themeConfig: {
+  //   navbar: {
+  //     title: 'My Site',
+  //     items: [
+  //       { type: 'search', position: 'right' }, 
+  //     ],
+  //   },
+  // },
 
   presets: [
     [
@@ -186,9 +210,12 @@ const config: Config = {
               label: 'Supports',
               to: 'https://heltec.org/about/contact/',
             },
+            {
+              html: socialLinksHtml
+            }
           ],
         },
-        
+
       ],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
