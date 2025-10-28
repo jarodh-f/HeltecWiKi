@@ -1,4 +1,4 @@
-// Auto-generated Wiki data - Last updated: 2025-10-27T09:16:43.022Z
+// Auto-generated Wiki data - Last updated: 2025-10-28T07:32:27.392Z
 export const latestWikiData = [
   {
     "id": 1,
@@ -17,6 +17,17 @@ export const latestWikiData = [
   },
   {
     "id": 5,
+    "title": "Maker Faire Rome whit Heltec Automation",
+    "description": "Maker Faire Rome whit Heltec Automation",
+    "category": "news",
+    "date": "2025-10-28",
+    "image": "/news-assets/maker-faire-rome-white-heltec-automation/maker-faire-rome-white-heltec-automation/foto3.webp",
+    "slug": "/news/maker-faire-rome-white-heltec-automation/maker-faire-rome-white-heltec-automation",
+    "tags": [],
+    "pinned": false
+  },
+  {
+    "id": 6,
     "title": "LoRa 32 V4 receiver sensitivity issue discussed",
     "description": "LoRa 32 V4 receiver sensitivity issue discussed",
     "category": "technical",
