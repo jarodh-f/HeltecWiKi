@@ -1,3 +1,12 @@
+---
+title: "IEEE WF IoT 2025 Smart and Sustainable"
+description: "IEEE WF IoT 2025 Smart and Sustainable"
+category: "News"
+author: "Hilbert Wang"
+date: "2025-11-03"
+image: "img/1.jpg"
+---
+
 ![](img/1.jpg)
 
 In Chengdu, November 2025 —The four-day 11th **IEEE World Forum on Internet of Things (IEEE WF-IoT 2025)**, held October 27–30 in Chengdu, SiChuan Province, concluded successfully. Under the theme **“Smart and Sustainable IoT,”** the forum brought together IoT experts, industry representatives and practitioners from around the world. As a Chengdu-headquartered provider of IoT devices and integrated solutions, Heltec participated actively in the forum and returned with important insights across three dimensions: trend capture, field validation and channel engagement.
@@ -56,9 +65,5 @@ As “smart” and “sustainable” become defining attributes of the IoT era, 
 
  Chengdu Heltec Automation Technology Co., Ltd., founded in 2014, specializes in IoT devices (including LoRa/LoRaWAN nodes, mesh networking systems and solar-powered field nodes), industrial IoT solutions and energy-related components. Headquartered in Chengdu, Sichuan Province, Heltec operates end-to-end capabilities covering R&D, manufacturing, testing, sales and after-sales service. For more information, visit heltec.org 
 
-**Media contact:**
- Hilbert
- Email: hilbert.wang@heltec.cn
- Phone: +86 028 6237 4838
 
 ![](img/5.jpg)

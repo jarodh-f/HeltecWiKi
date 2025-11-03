@@ -1,4 +1,4 @@
-// Auto-generated Wiki data - Last updated: 2025-11-01T07:00:55.692Z
+// Auto-generated Wiki data - Last updated: 2025-11-03T06:00:47.017Z
 export const latestWikiData = [
   {
     "id": 1,
@@ -17,6 +17,17 @@ export const latestWikiData = [
   },
   {
     "id": 5,
+    "title": "IEEE WF IoT 2025 Smart and Sustainable",
+    "description": "IEEE WF IoT 2025 Smart and Sustainable",
+    "category": "news",
+    "date": "2025-11-03",
+    "image": "/news-assets/ieee-wf-iot-2025-smart-and-sustainable/ieee-wf-iot-2025-smart-and-sustainable iot-summit-concludes/1.jpg",
+    "slug": "/news/ieee-wf-iot-2025-smart-and-sustainable/ieee-wf-iot-2025-smart-and-sustainable iot-summit-concludes",
+    "tags": [],
+    "pinned": false
+  },
+  {
+    "id": 6,
     "title": "Maker Faire Rome whit Heltec Automation",
     "description": "Maker Faire Rome whit Heltec Automation",
     "category": "news",
@@ -27,7 +38,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "LoRa 32 V4 receiver sensitivity issue discussed",
     "description": "LoRa 32 V4 receiver sensitivity issue discussed",
     "category": "technical",
