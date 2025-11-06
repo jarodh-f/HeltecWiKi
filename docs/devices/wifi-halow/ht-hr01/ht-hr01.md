@@ -43,11 +43,11 @@ Pi-CamLow is a Raspberry Pi HAT (Hardware Attached on Top) that integrates Wi-Fi
 ## Important Resources
 - [Datasheet](https://resource.heltec.cn/download/HT-HR01/Datasheet/HT-HR01_V1.0.0.pdf)
 - [Schematic Diagram](https://resource.heltec.cn/download/HT-HR01/Schematic_diagram)
-- [Firmware](https://resource.heltec.cn/download/HT-HR01/firmware/Pi-CamLow)
+- [HR01 Firmware](https://resource.heltec.cn/download/HT-HR01/Raspiberry%20firmware)
 - [Related links](https://resource.heltec.cn/download/HT-HR01)
 
 
-:::warning
-The current firmware version tests are all conducted on Raspberry PI 4B.
+:::note
+The current [firmware](https://resource.heltec.cn/download/HT-HR01/Raspiberry%20firmware) version is compatible with Raspberry Pi 1, 2, 3, and 4.
 :::
 

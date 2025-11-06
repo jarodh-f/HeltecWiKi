@@ -9,7 +9,7 @@ title: Usage Guide
 
 #### Hardware Preparation
 - [Pi-CamLow](https://heltec.org/project/ht-hc32/)
-- [Raspberry Pi 4 Module B](https://heltec.org/project/raspberry-pi4-model-b/)
+- Raspberry Pi 1/2/3/4
 - Micro SD card
 - SD card reader
 - Computer running Windows, Linux, or macOS
@@ -28,7 +28,7 @@ HR01 is powered by Raspberry PI, so it is sufficient to connect the Raspberry PI
 
 ### Install firmware
 
-1. Download the [HR01_Firmware](https://resource.heltec.cn/download/HT-HR01/Firmware/HT-HR01-20241024.gz) and [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+1. Download the [HR01_Firmware](https://resource.heltec.cn/download/HT-HR01/Raspiberry%20firmware) and [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 2. Insert the SD card into the card reader and connect it to your computer.
 3. Install and run the **Raspberry Pi Imager tool**.
 

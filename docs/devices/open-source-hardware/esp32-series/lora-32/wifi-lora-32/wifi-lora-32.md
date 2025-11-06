@@ -7,6 +7,17 @@ import DocCard from '@theme/DocCard';
 
 The WiFi LoRa 32 series includes three independent products — V2, V3, and V4. Each version is developed based on the design experience of its predecessors, with enhanced performance and optimized functionality. The following section provides detailed documentation for each version.
 
+## Download Meshtastic Firmware 
+
+<iframe
+  width="100%"
+  height="400"
+  src=" https://www.youtube.com/embed/g_bCHeNPgZA?=91s"
+  title="Heltec Capsule Sensor V3. A Portable LoRa/LoRaWAN Node device compatible with Meshtastic"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
 
 ## Version comparison
 
