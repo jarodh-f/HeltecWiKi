@@ -426,11 +426,11 @@ a:hover {
 }
 
 .theme-doc-sidebar-menu .menu__link--sublist.menu__link--active {
-  color: #000000;
+  color: var(--ifm-color-primary-light);
 }
 
 [data-theme='dark'] .theme-doc-sidebar-menu .menu__link--sublist.menu__link--active {
-  color: var(--dark-text-primary);
+  color: var(--ifm-color-primary-light);
 }
 
 .theme-doc-sidebar-menu .menu__link:hover {
