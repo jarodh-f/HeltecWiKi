@@ -1,4 +1,4 @@
-// Auto-generated Wiki data - Last updated: 2025-11-11T07:31:23.613Z
+// Auto-generated Wiki data - Last updated: 2025-11-11T08:38:55.383Z
 export const latestWikiData = [
   {
     "id": 1,
@@ -16,18 +16,29 @@ export const latestWikiData = [
     "pinned": true
   },
   {
-    "id": 5,
-    "title": "IEEE WF IoT 2025 Smart and Sustainable",
-    "description": "IEEE WF IoT 2025 Smart and Sustainable",
-    "category": "news",
-    "date": "2025-11-03",
-    "image": "/news-assets/ieee-wf-iot-2025-smart-and-sustainable/ieee-wf-iot-2025-smart-and-sustainable iot-summit-concludes/1.jpg",
-    "slug": "/news/ieee-wf-iot-2025-smart-and-sustainable/ieee-wf-iot-2025-smart-and-sustainable iot-summit-concludes",
+    "id": 3,
+    "title": "HC-02 Wi-Fi HaLow Module",
+    "description": "Pioneering a New Era of Long-Range, High-Speed Wireless Connectivity for IoT",
+    "category": "technical",
+    "date": "2025-11-11",
+    "image": "/news-assets/compact-efficient-and-developer-friendly/compact-efficient-and-developer-friendly/01.png",
+    "slug": "/news/compact-efficient-and-developer-friendly/compact-efficient-and-developer-friendly",
     "tags": [],
     "pinned": false
   },
   {
     "id": 6,
+    "title": "IEEE WF IoT 2025 Smart and Sustainable",
+    "description": "IEEE WF IoT 2025 Smart and Sustainable",
+    "category": "news",
+    "date": "2025-11-03",
+    "image": "/news-assets/ieee-wf-iot-2025-smart-and-sustainable/ieee-wf-iot-2025-smart-and-sustainable/1.jpg",
+    "slug": "/news/ieee-wf-iot-2025-smart-and-sustainable/ieee-wf-iot-2025-smart-and-sustainable",
+    "tags": [],
+    "pinned": false
+  },
+  {
+    "id": 7,
     "title": "Maker Faire Rome whit Heltec Automation",
     "description": "Maker Faire Rome whit Heltec Automation",
     "category": "news",
@@ -38,7 +49,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "LoRa 32 V4 receiver sensitivity issue discussed",
     "description": "LoRa 32 V4 receiver sensitivity issue discussed",
     "category": "technical",
@@ -49,7 +60,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Contest Content Template Usage Guide",
     "description": "How to Use the Contest Content Template",
     "category": "contest",
@@ -64,7 +75,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Maker Contest Content Format Template",
     "description": "Formatting Instructions for Documents Submitted for the 2025 Heltec Maker Contest",
     "category": "template",
