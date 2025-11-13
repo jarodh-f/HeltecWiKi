@@ -4,7 +4,6 @@ title: Usage Guide
 ---
 
 
-
 *This document describes the Quick Start Guide for MeshSolar, You can refer to the instructional video for guidance:
 [Instructional Video](https://www.youtube.com/watch?v=cDExK5QdVdU)
 
@@ -106,6 +105,16 @@ After successful activation, **Do Not Remove the Batteries**, or the BMS chip re
 ![](img/usage-guide/03.jpg)
 
 ![](img/usage-guide/13.jpg)
+
+:::tip
+If you are using Meshtastic firmware, you need to enable the device serial port function
+:::
+
+![](img/usage-guide/24.png)
+
+![](img/usage-guide/25.png)
+
+---
 
 3. Configure based on your battery requirements (cell count, capacity, etc.), then click Save Configuration to apply.
 

@@ -18,14 +18,16 @@ export const browseByData = [
         title: "LoRa Node Devices",
       },
       {
-        path: "https://heltec.org/wireless-aggregator/",
+        path: "/docs/devices/lorawan-application/lora-node-devices/hri-3632/",
         image: "img/main-img/wireless_aggregator.png",
         title: "Wireless Aggregator",
+        
+     
       },
       {
-        path: "/docs/devices/lorawan-application/lora-node-devices/meshpocket/",
-        image: "img/main-img/meshpocket.jpg",
-        title: "MeshPocket ",
+        path: "/docs/devices/lorawan-application/lora-gateway/ht-m2802/",
+        image: "img/main-img/ht-m2802.png",
+        title: "HT-M2802 Indoor LoRa Gateway ",
       },
     ],
   },
@@ -41,7 +43,7 @@ export const browseByData = [
         title: "Heltec ESP32 Series Quick Start",
       },
       {
-        path: "/devices/open-source-hardware/nrf52840-series/nrf52840-series-quick-start",
+        path: "/docs/devices/open-source-hardware/nrf52840-series/nrf52840-series-quick-start",
         image: "img/main-img/nrf.jpg",
         title: "Heltec nRF52840 Series Quick Start",
       },
@@ -65,7 +67,7 @@ export const browseByData = [
     moreLink: "/docs/devices/wifi-halow/",
     docList: [
       {
-        path: "https://heltec.org/what-is-wi-fi-halow/",
+        path: "/docs/devices/wifi-halow/",
         image: "img/main-img/wifi_halow.png",
         title: "What is Wi-Fi HaLow",
       },

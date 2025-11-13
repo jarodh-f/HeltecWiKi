@@ -25,7 +25,7 @@ If you are using one-click registration, you can skip this step.***
 
 ![](img/03.jpg) 
 
-2. Find the WiFi named **Sensor_Hub_xxxx** with your PC or mobile phone, connect it.
+2. Find the WiFi named **HRI-3621-XXXX** with your PC or mobile phone, connect it.
 
 ![](img/04.png) 
 
@@ -49,4 +49,4 @@ Press and hold the button until the light turns off, indicating that the device 
 
 
 ## Secondary development
-Please refer to the link: [ HRI-3621 Development Guide](/docs/devices/open-source-devices/plug-play/hri-3621-sensor-hub/development)
+Please refer to the link: [ HRI-3621 Development Guide](/docs/devices/lorawan-application/lora-node-devices/hri-3621/development)

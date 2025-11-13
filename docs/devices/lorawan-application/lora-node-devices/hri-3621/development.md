@@ -6,8 +6,11 @@ title: Secondary Development
 
 
 ## Hardware Resources
+- [Datasheet](https://resource.heltec.cn/download/Sensor%20Hub%20for%20industry/HRI-3621/HRI-3621.pdf)
+- [Related links](https://resource.heltec.cn/download/Sensor%20Hub%20for%20industry)
+- [Schematic](https://resource.heltec.cn/download/Sensor%20Hub%20for%20industry/Hardware_open-source_documentation)
 
-- **Pin Layout**
+ ## Pin Layout
 
 ​	The below picture only shows the common pins. For other pins, please refer to the schematic.
 
