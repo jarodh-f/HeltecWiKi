@@ -12,7 +12,16 @@ pinned: true
 Calling all tinkerers, hackers, and makers from around the world! The first global Heltec Maker Contest is here—time to showcast your wildest ideas and excellent projects.
 
 If you've got a brilliant idea, a fascinating discovery, or an interesting setup in special scenario- this is your stage. Whether it's an alpha prototype or polished project, solo or team effort-we want to see your creativity with Heltec hardware.
-![Overview](img/01.png)
+<iframe
+  width="100%"
+  height="400"
+  src="https://www.youtube.com/watch?v=_eyiT6yL3j8"
+  title="2025 Heltec Maker Contest"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
 <!-- truncate -->
 
 ### Ranking Awards
@@ -65,7 +74,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="step-1" label="1: Registration & Application" default>
     #### Registration & Application (Sep 29 – Dec 10)
     - Register an account at [Heltec Automation](https://heltec.org/), and participant on [this page](https://participant.heltec.org/activity/2025-heltec-maker-contest).
-    - Frok [Heltec Wi-Ki](https://github.com/HelTecAutomation) repository, and clone the forked project into local.
+    - Fork [Heltec Wi-Ki](https://github.com/HelTecAutomation/HeltecWiKi) repository, and clone the forked project into local.
       - Your project docs formart please refer to: [Maker Contest Content Format Template](https://wiki.heltec.org/news/contest-content-template/contest-content-template);
       - More detailed usage documentation please refer to: [Contest Content Template Usage Guide](https://wiki.heltec.org/news/contest-content-template-usage-guide/contest-content-template-usage-guide)
     - You can update or edit your submission anytime before Dec 10.
