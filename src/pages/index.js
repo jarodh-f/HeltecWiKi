@@ -48,13 +48,13 @@ function HomepageHeader() {
                 className="button button--secondary button--lg"
                 to="/docs/intro"
               >
-                Get Started 🚀
+                HeltecWiki🚀
               </Link>
               <Link
                 className="button button--outline button--lg"
                 to="/news"
               >
-                View Docs 📚
+                News 📚
               </Link>
             </div>
           </div>
@@ -286,7 +286,7 @@ function TechSupport() {
                 >
                   <span className={styles.channelIcon}>🏪</span>
                   <div>
-                    <h4>Official Forum</h4>
+                    <h4>Heltec Community Forum</h4>
                     <p>Ask questions and share your projects in the forum</p>
                   </div>
                 </div>

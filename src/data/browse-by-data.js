@@ -9,12 +9,12 @@ export const browseByData = [
     docList: [
        {
         path: "/docs/devices/lorawan-application/lora-gateway/",
-        image: "img/main-img/3.png",
+        image: "img/main-img/loragateway.png",
         title: "LoRa Gateway Series",
       },
       {
         path: "/docs/devices/lorawan-application/lora-node-devices/",
-        image: "img/main-img/lora_node.jpg",
+        image: "img/main-img/3.png",
         title: "LoRa Node Devices",
       },
       {
@@ -39,17 +39,17 @@ export const browseByData = [
     docList: [
        {
         path: "/docs/devices/open-source-hardware/esp32-series/esp32-quick-start",
-        image: "img/main-img/esp32qs.jpg",
+        image: "img/main-img/v4.png",
         title: "Heltec ESP32 Series Quick Start",
       },
       {
-        path: "/docs/devices/open-source-hardware/nrf52840-series/nrf52840-series-quick-start",
-        image: "img/main-img/nrf.jpg",
+        path: "/docs/devices/open-source-hardware/nrf52840-series/meshpocket/",
+        image: "img/main-img/meshpocket.jpg",
         title: "Heltec nRF52840 Series Quick Start",
       },
       {
         path: "/docs/devices/open-source-hardware/cubecell-series/cubecell-quick-start",
-        image: "img/main-img/wifi_kit_32.jpg",
+        image: "img/main-img/cubecell_family.jpg",
         title: "Heltec CubeCell Series Quick Start",
       },
       {
@@ -101,7 +101,7 @@ export const browseByData = [
         title: "LoRa Communication Protocol Deep Dive",
       },
       {
-        path: "/docs/devices/open-source-hardware/esp32-series/esp32-quick-start?esp32=meshtastic",
+        path: "/docs/devices/open-source-hardware/nrf52840-series/nrf52840-series-quick-start",
         image: "img/main-img/meshtastic.png",
         title: "WiFi Mesh Network Construction",
       },

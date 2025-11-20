@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 import styles from '@site/src/css/styles.module.css';
 import DocCard from '@theme/DocCard';
 
-This page contains the most frequently questions from user. If this page's detail can't solve your problem, you can also talk in our forum: [community.heltec.cn](http://community.heltec.cn/)
+This page contains the most frequently questions from user. If this page's detail can't solve your problem, you can also discuss our forum: [community.heltec.cn](http://community.heltec.cn/)
 
 ## Can't Download Firmware
 

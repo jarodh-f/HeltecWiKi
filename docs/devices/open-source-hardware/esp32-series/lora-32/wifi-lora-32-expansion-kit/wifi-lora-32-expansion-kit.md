@@ -35,6 +35,7 @@ The WiFi LoRa 32 Expansion Kit is a comprehensive set specifically designed for 
 ## Product Usage Guide
 
 **The following documentation will help you get started quickly with the product**
+- [Usage Guide](/docs/devices/open-source-hardware/esp32-series/lora-32/wifi-lora-32-expansion-kit/usage-guide)
 - [Install development environment](/docs/devices/open-source-hardware/esp32-series/esp32-quick-start)
 - [Applied to LoRaWAN](/docs/devices/open-source-hardware/esp32-series/esp32-quick-start?esp32=lorawan)
 - [Applied to Meshtatic](/docs/devices/open-source-hardware/esp32-series/esp32-quick-start?esp32=meshtastic)

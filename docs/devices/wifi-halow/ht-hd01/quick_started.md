@@ -25,6 +25,10 @@ title: Usage Guide
 | 🟣 **Purple (blinking)**            | AP mode using USB, network input not connected          |
 | 🟣 **Purple (steady on)**           | AP mode using USB, network input connected successfully |
 
+:::note
+When connecting the Dongle to a Windows system via a USB-to-Ethernet adapter, the [appropriate driver](https://resource.heltec.cn/download/HT-HD01/Driver/USB-NIC) must be installed first.
+:::
+
 ## Overview
 We have provided a plug-and-play mode for the HT-HD01 to help you get started more quickly. The devices are pre-paired at the factory, and you can use them directly without any configuration. 
 
