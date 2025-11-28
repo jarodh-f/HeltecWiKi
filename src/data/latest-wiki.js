@@ -1,4 +1,4 @@
-// Auto-generated Wiki data - Last updated: 2025-11-27T06:22:35.375Z
+// Auto-generated Wiki data - Last updated: 2025-11-28T07:41:41.684Z
 export const latestWikiData = [
   {
     "id": 1,
@@ -14,6 +14,17 @@ export const latestWikiData = [
       "contest"
     ],
     "pinned": true
+  },
+  {
+    "id": 12,
+    "title": "Shipping and warehouse policy",
+    "description": "This Shipping & Delivery Policy outlines our methods, delivery times, and important terms regarding your orders.",
+    "category": "template",
+    "date": "2025-11-28",
+    "image": "/news-assets/shipping-and--warehouse-policy/shipping-and-warehouse-policy/parcel1.jpg",
+    "slug": "/news/shipping-and--warehouse-policy/shipping-and-warehouse-policy",
+    "tags": [],
+    "pinned": false
   },
   {
     "id": 10,
@@ -93,7 +104,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "LoRa 32 V4 receiver sensitivity issue discussed",
     "description": "LoRa 32 V4 receiver sensitivity issue discussed",
     "category": "technical",
