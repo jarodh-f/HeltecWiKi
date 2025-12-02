@@ -1,117 +1,56 @@
 ---
-title: "2025 Heltec Maker Contest (Pinned)"
-description: "The 2025 Heltec Maker Challenge is here—our very first global maker contest!"
-category: "IoT"
+title: "Maker Contest Content Format Template"
+description: "Formatting Instructions for Documents Submitted for the 2025 Heltec Maker Contest"
+category: "Template"
 author: "heltec-author"
-date: "2025-9-18"
-tags: ["heltec", "maker", "contest"]
-image: "img/01.png"
-pinned: true
+date: "2025-9-23"
+image: "img/format.svg"
 ---
 
-Calling all tinkerers, hackers, and makers from around the world! The first global Heltec Maker Contest is here—time to showcast your wildest ideas and excellent projects.
+:::tip
+The above is the `Frontmatter` content. This part of the content will **NOT** be displayed in the main body of the document, but it is very important index information. The content corresponding to the field should be relevant to your project.
+:::
 
-If you've got a brilliant idea, a fascinating discovery, or an interesting setup in special scenario- this is your stage. Whether it's an alpha prototype or polished project, solo or team effort-we want to see your creativity with Heltec hardware.
-<iframe
-  width="100%"
-  height="400"
-  src="https://www.youtube.com/embed/_eyiT6yL3j8"
-  title="2025 Heltec Maker Contest"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-></iframe>
+:::note
+In the `Frontmatter` content, the author's name must be the same as the name submitted during registration. This is the unique identifier that matches your article.
+:::
+
+## Your project title
+
+![](img/format.svg)
 
 <!-- truncate -->
 
-### Ranking Awards
-|     Ranking        |            Awards          |
-|--------------------|----------------------------|
-|     1st prize      | 1,000$ cash + exclusive trophy + Heltec’s “Maker Hall of Fame". |
-|     2st prize      | 700$ cash + trophy + Heltec’s “Maker Hall of Fame". |
-|     3rd prize      | 400$ cash + trophy + Heltec’s “Maker Hall of Fame". |
-| Participation<sup>*1</sup> | 15% discount coupon on [Heltec website](https://heltec.org) with no threshold and valid for one year |
+:::tip
+A horizontal image that shows your final work or the effect you achieved, with a recommended ratio of 16:9 (Not mandatory), such as 1000 x 562 resolution. `svg`, `png`, `jpg`, `jpeg` are fine.
 
-:::tip *
-Only the approved application will receive the discount coupon. And the approved projects will be displayed. As long as your project have one of Heltec product and it's clear for us to review, you'll likely to pass, so what are you waiting for? 
+This image serves two purposes:
+1. As a feature image on the homepage;
+2. As a showcase for your final work or the effect you achieved.
 :::
+
+
+A brief summary of what your project is doing, what it achieves, what problems it solves, etc.
 
 :::note
-These prizes are awarded per project, not per person. For example, a team of 5 winning First Prize will still receive USD 1,000 total.
+The above content is **required** (Except for the tips in the tip and note boxes), and the following content is recommended but not required. You can freely play according to your actual situation.
 :::
 
-### Our mission?
-Ignite creativity, expand the maker community, and celebrate fearless innovation. No limits. No fear. Just your vision, your hacks, and your inner geek.
+### Your project story
+What is your original intention in making this thing or project? Or the interesting things behind this project.
 
-**Are you ready to take the challenge?**
+### preparation
+What items and quantities are needed for your project? It would be best if you could provide a purchase link or indicate the source. This would make it easier for others to replicate.
 
-### Who Can Participate:
-- Open to individuals or teams
-- Any project using Heltec products (past or present)
-- Open to all industries — including but not limited to:
-  - Smart Cities & Infrastructure: traffic monitoring, smart street lighting, public safety, energy-efficient buildings, etc.
-  - Industrial IoT (IIoT): predictive maintenance, factory automation, supply chain optimization, etc.
-  - Agriculture: precision farming, soil and water monitoring, automated irrigation, weather stations, etc.
-  - Home automation: smart appliances, home security systems, personal health monitors, wearable devices, etc.
-  - Healthcare & Education: remote patient monitoring, telemedicine devices, etc.
-  - Mobility & Transportation: smart logistics, vehicle tracking, traffic flow optimization, emergency, etc.
+For example:
+- [WiFi LoRa 32 V4](https://heltec.org/) x 1
+- [HT-M02 Edge LoRa Gateway](https://heltec.org/) x 1
+- [IIC temprature sensor](https://www.aliexpress.com/) x 1
 
-### Timeline:
-- 1️⃣ Registration & Project Submission (Sep 29 – Dec 10)
-- 2️⃣ Project Evaluation (Dec 10 – Dec 15)
-- 3️⃣ Rankings Announcement: Dec 15
-  - Top projects revealed.
-  - Additional prize delivery info will be requested (banking/shipping).
-- 4️⃣ Get your Awards (Dec 15 – Dec 24)
-  - Prizes distributed within 7–15 days, just in time for the holidays.
+### Implementation process
+Please provide as much detail as possible on how your work was implemented, including the logic of hardware connection, your system arctecture, etc. You can insert some photos or videos in this part of the content. It would be great if you could open source your code.
 
-### How It Works
+### Finished project showcase / Summarize
+This section is used to showcase and explain the final results of your project.
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs>
-  <TabItem value="step-1" label="1: Registration & Application" default>
-    #### Registration & Application (Sep 29 – Dec 10)
-    - Register an account at [Heltec Automation](https://heltec.org/), and participant on [this page](https://participant.heltec.org/activity/2025-heltec-maker-contest).
-    - Fork [Heltec Wi-Ki](https://github.com/HelTecAutomation/HeltecWiKi) repository, and clone the forked project into local.
-      - Your project docs formart please refer to: [Maker Contest Content Format Template](https://wiki.heltec.org/news/contest-content-template/contest-content-template);
-      - More detailed usage documentation please refer to: [Contest Content Template Usage Guide](https://wiki.heltec.org/news/contest-content-template-usage-guide/contest-content-template-usage-guide)
-    - You can update or edit your submission anytime before Dec 10.
-  </TabItem>
-
-  <TabItem value="step-2" label="2: Review & Approval">
-    #### Review & Approval
-    - Our team will review via Gitthub after we receive your application. 
-    - Once we merged your PR, your project will be displayed in [this page](https://wiki.heltec.org/news).
-
-:::note
-And you’ll also get notified with your 15% off discount, once approved. (One time use per participant )
-:::
-  </TabItem>
-
-  <TabItem value="step-3" label="3: Evaluation">
-    #### Evaluation (Dec 10 – Dec 15)
-    The evaluation results will be jointly decided by :
-    - Community votes & views: 30%
-    - Heltec R&D team: 40%
-    - Special guest experts: 30%
-:::tip Recruiting judges
-Interested in being a judge for this contest? Email Sabrina@heltec.cn with a brief introduction explaining why you want to be a judge and your job role.
-:::
-  </TabItem>
-</Tabs>
-
-### Evaluation Criteria:
-- Innovation & Creativity: Originality, novelty, and creative breakthroughs.
-- Usability: Intuitive interface, smooth operation, and accessibility for general users.
-- Practical Value: Tangible impact on real-world problems or scenarios.
-- Technical Integration: Depth of Heltec product adoption and overall system integration.
-- Solution Effectiveness: Measurable improvements or problem-solving efficiency.
-- Social Impact: Benefit to users or industry, real-world usefulness.
-
-:::note Additional Notes
-- Submission Requirements: Ensure all files comply with size, format, and submission instructions. Projects must be original, respect third-party rights, and comply with Heltec contest rules.
-- Copyright & IP: By applying this contest, all participants agree to Heltec’s right to promote, display, and share project content.
-- Promotion: Heltec will showcase projects via official website, partner media, and social channels; participants are encouraged to share their journey online to maximize exposure.
-:::
+Or make a summary of what you have done and what upgrades may be made in the future.
