@@ -1,4 +1,4 @@
-// Auto-generated Wiki data - Last updated: 2025-12-01T07:37:15.132Z
+// Auto-generated Wiki data - Last updated: 2025-12-04T08:11:22.010Z
 export const latestWikiData = [
   {
     "id": 1,
@@ -16,7 +16,18 @@ export const latestWikiData = [
     "pinned": true
   },
   {
-    "id": 12,
+    "id": 7,
+    "title": "From a LoRa communication module to a safe text message",
+    "description": "This is the story of Heltec's contribution to Louisiana's hurricane-resistant network.",
+    "category": "news",
+    "date": "2025-12-04",
+    "image": "/news-assets/from-a-lora-communication-module-to-a-safe-text-message/from-a-lora-communication-module-to-a-safe-text-message/1.png",
+    "slug": "/news/from-a-lora-communication-module-to-a-safe-text-message/from-a-lora-communication-module-to-a-safe-text-message",
+    "tags": [],
+    "pinned": false
+  },
+  {
+    "id": 13,
     "title": "Shipping and warehouse policy",
     "description": "This Shipping & Delivery Policy outlines our methods, delivery times, and important terms regarding your orders.",
     "category": "template",
@@ -27,7 +38,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "LoRa Tracking in the Mountains",
     "description": "How We Tracked Paragliders Without Cellular Coverage",
     "category": "news",
@@ -49,7 +60,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "🦃 Happy Thanksgiving from Heltec! 🍁",
     "description": "This Thanksgiving, we want to express our heartfelt gratitude to all our amazing customers and community members.",
     "category": "news",
@@ -60,7 +71,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Heltec Visits Maker Faire Shenzhen 2025",
     "description": "**Heltec Visits Maker Faire Shenzhen 2025 — Exploring the Future of Integrated Technology**",
     "category": "news",
@@ -82,7 +93,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "IEEE WF IoT 2025 Smart and Sustainable",
     "description": "IEEE WF IoT 2025 Smart and Sustainable",
     "category": "news",
@@ -93,7 +104,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Maker Faire Rome whit Heltec Automation",
     "description": "Maker Faire Rome whit Heltec Automation",
     "category": "news",
@@ -104,7 +115,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "LoRa 32 V4 receiver sensitivity issue discussed",
     "description": "LoRa 32 V4 receiver sensitivity issue discussed",
     "category": "technical",
