@@ -8,7 +8,7 @@ The board combines **WLED**, **LoRa** and a robust power stage into a compact, p
 
 ## Idea
 
-![](img/usage.jpg)
+![Race Image](img/usage.jpg)
 
 Traditional LED gate prototypes often rely on loose development boards, external LoRa modules, and a tangle of wires. This quickly becomes fragile and hard to replicate when you want to scale from a single prototype to a fleet of gates.
 
@@ -70,8 +70,8 @@ The combination of WLED and LoRa allows fine-grained visual control with very li
 
 ## Hardware Realization
 
-![](PCB_3D_1.png)
-![](PCB_3D_2.png)
+![PCB Rendering 1](PCB_3D_1.png)
+![PCB Rendering 2](PCB_3D_2.png)
 
 ### Core: Heltec HT-CT62 Module
 
@@ -110,8 +110,8 @@ Using HT-CT62 instead of a fully discrete ESP32-C3 + SX1262 design brings severa
   * Firmware and user experience
 
 ### Power & Connectors
-![](PCB_3D_3.png)
-![](PCB.png)
+![PCB Rendering Connectors](PCB_3D_3.png)
+![PCB Schematic](PCB.png)
 
 The PCB is designed as a **single, compact board** that can live inside or on the frame of an LED gate:
 
