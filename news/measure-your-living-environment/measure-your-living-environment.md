@@ -159,7 +159,7 @@ There are also graphs for 7 days of data - see for instance https://www.meetjele
 ![](img/MJLO-dashboard-7d.png)
 
 Besides the individual graphs, there is a map where measurements can be compared easily between different boxes across town or elsewhere - see https://db.meetjeleefomgeving.nl (this is very much a work in progress and measurements may not be publicly available all the time). Here, we can easily compare for instance the maximum loudness measured in different parts of town:
-![](img/MJLO-map-loudness.png)
+![](img/MJLO-map-loudness.jpg)
 
 While there is so much available open source for microcontrollers, sensors and firmware, making databases and dashboards is much harder. And because it is so time consuming and difficult, the solutions that do exist are almost all paid - the ones that are free are usually strongly limited in number of devices are only save data for a few days or weeks.  
 Currently, Steven is setting up InfluxDB3 Enterprise with a 'Home-use' license (a school isn't an enterprise but much more a community) - this license is limited in number of compute, but as long as you bring your own server and storage, you can do anything you want. The goal is to install Grafana alongside and create new materials for Steven's SQL lessons. Then students can even investigate their living environment during IT classes!
