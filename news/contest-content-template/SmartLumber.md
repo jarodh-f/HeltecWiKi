@@ -26,7 +26,7 @@ Currently, maintenance is purely reactive: machines are repaired only when they 
 
 **The Solution:** Choose **Heltec hardware** to definitively solve the connectivity problem and develop a software **"Digital Twin"** to simulate motor physics and learn from failures that haven't happened yet.
 
-![](/img/02.jpg)
+![](/img/02.jpeg)
 
 ### 🛠️ Preparation
 To replicate this IIoT (Industrial IoT) architecture, we used the following components:
