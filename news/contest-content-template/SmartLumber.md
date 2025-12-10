@@ -1,10 +1,10 @@
 ---
-title: "🌲SmartLumber: Industrial LoRaWAN Monitoring & Predictive Digital Twin"
+title: "🌲 SmartLumber: Industrial LoRaWAN Monitoring & Predictive Digital Twin"
 description: "Industrial LoRaWAN Monitoring & Predictive Digital Twin"
 category: "News"
 author: "Jinzzakk"
 date: "2025-12-09"
-image: "![](/img/01.png)"
+image: "![](./img/01.png)"
 ---
 
 ## 🌲 SmartLumber: Industrial LoRaWAN Monitoring & Predictive Digital Twin
@@ -26,7 +26,7 @@ Currently, maintenance is purely reactive: machines are repaired only when they 
 
 **The Solution:** Choose **Heltec hardware** to definitively solve the connectivity problem and develop a software **"Digital Twin"** to simulate motor physics and learn from failures that haven't happened yet.
 
-![](/img/02.jpeg)
+![](./img/01.png)
 
 ### 🛠️ Preparation
 To replicate this IIoT (Industrial IoT) architecture, we used the following components:
@@ -37,6 +37,8 @@ To replicate this IIoT (Industrial IoT) architecture, we used the following comp
 - Industrial LoRaWAN Sensors: Including Milesight MT500-PT (Vibration/Temperature) and Dragino LT-22222-L (I/O Controller).
 
 - Support Sensors: HEYUAN OT-L2S-F1 and DZS310.
+
+![](./img/02.jpeg)
 
 💻 Software (Tech Stack)
 - 🐳 Docker & Docker Compose: For service orchestration on a local server.
@@ -67,7 +69,7 @@ The flow follows the Industry 4.0 standard:
 
 - We use Docker to containerize the entire solution, allowing this system to be replicable on any server in a matter of minutes.
 
-![](/img/03.png)
+![](./img/03.png)
 
 🔄 **Data Flow and Backend Deployment**
 
