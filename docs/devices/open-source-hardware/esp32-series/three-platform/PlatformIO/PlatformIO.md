@@ -22,7 +22,7 @@ Press `Ctrl + Shift + P` to open the Command Palette, enter **PlatformIO Home**,
 
 ![](img\platformio\p4.png)
 
-![](img\platformio\p5.png)
+![](img\platformio\P5.png)
 
 - Name: Customize project name
 - Board: Select Heltec WiFi LoRa 32 (V3), as the V4-related submissions are still pending approval
