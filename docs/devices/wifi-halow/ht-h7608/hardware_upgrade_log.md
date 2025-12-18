@@ -1,19 +1,19 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
 title: Hardware Update Log
 ---
 
 
 
-## HT-HC01
+## HT-H7608
 
-- First release of the module on December 12, 2024
+- This product was first released on December 9, 2024
 
-## HT-HC01 V2
+## HT-H7608 V2
 
 - HC01 has been updated to version V2.
 - The maximum power has increased from 21±1 dBm to 27±1 dBm
-- 2025/12/18
+
 
 
 
