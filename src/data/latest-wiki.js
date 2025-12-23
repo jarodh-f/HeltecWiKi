@@ -1,4 +1,4 @@
-// Auto-generated Wiki data - Last updated: 2025-12-04T08:11:22.010Z
+// Auto-generated Wiki data - Last updated: 2025-12-23T09:24:48.480Z
 export const latestWikiData = [
   {
     "id": 1,
@@ -16,7 +16,18 @@ export const latestWikiData = [
     "pinned": true
   },
   {
-    "id": 7,
+    "id": 4,
+    "title": "Christmas gifts and 2026 new years",
+    "description": "Dual-Festival Promotion, Offering Tiered Discounts to Empower Developers for 2026",
+    "category": "news",
+    "date": "2025-12-23",
+    "image": "/news-assets/christmas-gifts-and-2026-new-year/christmas-gifts-and-2026-new-year/03.png",
+    "slug": "/news/christmas-gifts-and-2026-new-year/christmas-gifts-and-2026-new-year",
+    "tags": [],
+    "pinned": false
+  },
+  {
+    "id": 8,
     "title": "From a LoRa communication module to a safe text message",
     "description": "This is the story of Heltec's contribution to Louisiana's hurricane-resistant network.",
     "category": "news",
@@ -27,7 +38,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "Shipping and warehouse policy",
     "description": "This Shipping & Delivery Policy outlines our methods, delivery times, and important terms regarding your orders.",
     "category": "template",
@@ -38,7 +49,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "LoRa Tracking in the Mountains",
     "description": "How We Tracked Paragliders Without Cellular Coverage",
     "category": "news",
@@ -60,7 +71,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "🦃 Happy Thanksgiving from Heltec! 🍁",
     "description": "This Thanksgiving, we want to express our heartfelt gratitude to all our amazing customers and community members.",
     "category": "news",
@@ -71,7 +82,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Heltec Visits Maker Faire Shenzhen 2025",
     "description": "**Heltec Visits Maker Faire Shenzhen 2025 — Exploring the Future of Integrated Technology**",
     "category": "news",
@@ -82,7 +93,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "HC-02 Wi-Fi HaLow Module",
     "description": "Pioneering a New Era of Long-Range, High-Speed Wireless Connectivity for IoT",
     "category": "technical",
@@ -93,7 +104,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "IEEE WF IoT 2025 Smart and Sustainable",
     "description": "IEEE WF IoT 2025 Smart and Sustainable",
     "category": "news",
@@ -104,7 +115,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Maker Faire Rome whit Heltec Automation",
     "description": "Maker Faire Rome whit Heltec Automation",
     "category": "news",
@@ -115,7 +126,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "LoRa 32 V4 receiver sensitivity issue discussed",
     "description": "LoRa 32 V4 receiver sensitivity issue discussed",
     "category": "technical",
@@ -126,7 +137,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Contest Content Template Usage Guide",
     "description": "How to Use the Contest Content Template",
     "category": "contest",
@@ -141,7 +152,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Maker Contest Content Format Template",
     "description": "Formatting Instructions for Documents Submitted for the 2025 Heltec Maker Contest",
     "category": "template",
