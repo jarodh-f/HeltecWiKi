@@ -1,4 +1,4 @@
-// Auto-generated Wiki data - Last updated: 2025-12-23T09:24:48.480Z
+// Auto-generated Wiki data - Last updated: 2025-12-23T11:01:38.636Z
 export const latestWikiData = [
   {
     "id": 1,
@@ -27,6 +27,17 @@ export const latestWikiData = [
     "pinned": false
   },
   {
+    "id": 14,
+    "title": "Maker Contest: Measure Your Living Environment",
+    "description": "Contest Entry for the 2025 Heltec Maker Contest",
+    "category": "2025 maker contest",
+    "date": "2025-12-9",
+    "image": "/news-assets/measure-your-living-environment/measure-your-living-environment/mjlo-box.jpg",
+    "slug": "/news/measure-your-living-environment/measure-your-living-environment",
+    "tags": [],
+    "pinned": false
+  },
+  {
     "id": 8,
     "title": "From a LoRa communication module to a safe text message",
     "description": "This is the story of Heltec's contribution to Louisiana's hurricane-resistant network.",
@@ -38,7 +49,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Shipping and warehouse policy",
     "description": "This Shipping & Delivery Policy outlines our methods, delivery times, and important terms regarding your orders.",
     "category": "template",
@@ -126,7 +137,7 @@ export const latestWikiData = [
     "pinned": false
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "LoRa 32 V4 receiver sensitivity issue discussed",
     "description": "LoRa 32 V4 receiver sensitivity issue discussed",
     "category": "technical",
