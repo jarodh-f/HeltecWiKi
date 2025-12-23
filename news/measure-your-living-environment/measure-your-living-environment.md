@@ -1,7 +1,7 @@
 ---
 title: "Maker Contest: Measure Your Living Environment"
 description: "Contest Entry for the 2025 Heltec Maker Contest"
-category: "News"
+category: "2025 Maker Contest"
 author: "StevenCellist"
 date: "2025-12-9"
 image: "img/MJLO-box.jpg"
