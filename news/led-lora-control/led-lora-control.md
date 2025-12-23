@@ -1,3 +1,12 @@
+--- 
+title: "LoRa Gate PCB – WLED-Powered LED Gates with Heltec HT-CT62" 
+description: "The LoRa Gate PCB is a custom controller board for wireless, battery-powered LED gates, built around the Heltec HT-CT62 module (ESP32-C3 + SX1262 LoRa). It is designed for applications where multiple LED “nodes” need to be controlled reliably over long distances with minimal wiring – for example **FPV race start/finish gates**, illuminated track elements, or interactive light installations." 
+category: "2025 Maker Contest" 
+author: "PSi86" 
+date: "2025-12-09" 
+image: "img/usage.jpg" 
+---
+
 # LoRa Gate PCB – WLED-Powered LED Gates with Heltec HT-CT62
 
 The **LoRa Gate PCB** is a custom controller board for wireless, battery-powered LED gates, built around the **Heltec HT-CT62 module** (ESP32-C3 + SX1262 LoRa). It is designed for applications where multiple LED “nodes” need to be controlled reliably over long distances with minimal wiring – for example **FPV race start/finish gates**, illuminated track elements, or interactive light installations.
