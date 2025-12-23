@@ -1,7 +1,7 @@
 ---
 title: "LoRaHunt - Monitoring live traps for invasive species"
 description: "How we protect native wildlife with Heltec's LoRa modules"
-category: ""2025 Maker Contest"
+category: "2025 Maker Contest"
 author: "BrunoGriffon"
 date: "2025-12-08"
 image: "img/LoRaHunt.jpg.jpg"
