@@ -1,4 +1,4 @@
-// Auto-generated Wiki data - Last updated: 2025-12-26T09:10:31.530Z
+// Auto-generated Wiki data - Last updated: 2025-12-26T09:28:41.403Z
 export const latestWikiData = [
   {
     "id": 1,
@@ -65,7 +65,7 @@ export const latestWikiData = [
     "description": "How we protect native wildlife with Heltec's LoRa modules",
     "category": "2025 maker contest",
     "date": "2025-12-08",
-    "image": "/img/undraw_docusaurus_mountain.svg",
+    "image": "/news-assets/lorahunt/lorahunt/LoRaHunt.jpg",
     "slug": "/news/lorahunt/lorahunt",
     "tags": [],
     "pinned": false

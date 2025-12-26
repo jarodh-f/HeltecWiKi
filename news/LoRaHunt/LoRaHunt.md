@@ -4,7 +4,7 @@ description: "How we protect native wildlife with Heltec's LoRa modules"
 category: "2025 Maker Contest"
 author: "BrunoGriffon"
 date: "2025-12-08"
-image: "img/LoRaHunt.jpg.jpg"
+image: "img/LoRaHunt.jpg"
 ---
 
 ![image info](img/LoRaHunt.jpg)
